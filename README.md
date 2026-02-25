@@ -161,7 +161,7 @@ Lifein_ATS/
 
 - 作者：科叔
 <details>
-<summary>扫描二维码联系</summary>
+<summary>微信扫描二维码联系</summary>
   
 <img src="https://github.com/ichris007/ichris007/blob/main/images/Chris_WeChat.jpg" width="300">
 

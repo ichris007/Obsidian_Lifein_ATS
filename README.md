@@ -14,7 +14,7 @@
 
 系统首页👇
 
-![](https://github.com/ichris007/Obsidian_Lifein_ATS/blob/main/demo/Lifein_ATS_Dashboard.gif)
+![](https://github.com/ichris007/Obsidian_Lifein_ATS/blob/main/demo/0_Dashboard_card.gif)
 
 ## 1 核心特点
 
@@ -41,7 +41,7 @@
   
 #### 人才管理
 
-![](https://github.com/ichris007/Obsidian_Lifein_ATS/blob/main/demo/Lifein_ATS_Talents.gif) 
+![](https://github.com/ichris007/Obsidian_Lifein_ATS/blob/main/demo/3_Talent.gif) 
 
 #### 人才库检索
 
@@ -57,7 +57,7 @@
 <details>
 <summary>点击查看演示</summary>
   
-![](https://github.com/ichris007/Obsidian_Lifein_ATS/blob/main/demo/Lifein_ATS_Project.gif)
+![](https://github.com/ichris007/Obsidian_Lifein_ATS/blob/main/demo/2_Project.gif)
 </details>
 
 ### 2.3 🏢 客户与联系人管理
@@ -70,10 +70,10 @@
 <summary>点击查看演示</summary>
 
 #### 客户/企业管理
-![](https://github.com/ichris007/Obsidian_Lifein_ATS/blob/main/demo/Lifein_ATS_Company.gif)
+![](https://github.com/ichris007/Obsidian_Lifein_ATS/blob/main/demo/1_Company.gif)
 
-#### 客户/企业联系人管理
-![](https://github.com/ichris007/Obsidian_Lifein_ATS/blob/main/demo/Lifein_ATS_Contacts.gif)
+#### 企业联系人管理
+![](https://github.com/ichris007/Obsidian_Lifein_ATS/blob/main/demo/5_contact.gif)
 </details>
 
 ### 2.4 🔄 候选人跟进追踪
@@ -92,7 +92,7 @@
 ![](https://github.com/ichris007/Obsidian_Lifein_ATS/blob/main/demo/Lifein_ATS_Applications_1.gif)
 
 #### 候选人追踪详情
-![](https://github.com/ichris007/Obsidian_Lifein_ATS/blob/main/demo/Lifein_ATS_Applications.gif)
+![](https://github.com/ichris007/Obsidian_Lifein_ATS/blob/main/demo/4_Applications.gif)
 </details>
 
 ### 2.5 📊 可视化仪表板
@@ -117,6 +117,22 @@
 <summary>点击查看演示</summary>
   
 ![](https://github.com/ichris007/Obsidian_Lifein_ATS/blob/main/demo/Lifein_ATS_tupu.gif)
+</details>
+
+### 2.7 🤖 AI智能助手
+- 把Claud嵌入到系统中，用AI找人、总结、写草稿
+- 不想折腾AI配置，免费大模型（DeepSeek、豆包、千问等）也可以嵌入系统直接用
+
+<details>
+<summary>点击查看演示</summary>
+
+#### 用Claude找人、写评语
+![](https://github.com/ichris007/Obsidian_Lifein_ATS/blob/main/demo/7_AI_claude.gif)
+
+#### 用DeepSeek、豆包等(文件大，加载慢，稍等)
+
+![](https://github.com/ichris007/Obsidian_Lifein_ATS/blob/main/demo/8_shortcut.mp4)
+
 </details>
 
 ---
